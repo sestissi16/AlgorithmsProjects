@@ -24,13 +24,6 @@ def doublehash(key, subnum, mod):
     
 doublehash(88, 7, 7)
 
-
-# In[26]:
-
-
-print(29%11)
-
-
 # In[ ]:
 
 

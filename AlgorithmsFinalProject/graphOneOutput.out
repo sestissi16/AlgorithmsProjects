@@ -1,0 +1,14 @@
+Read 10 cities and 13 edges
+Number of connected components: 1
+ Connected Component 1:
+    one
+    three
+    nine
+    eight
+    seven
+    ten
+    five
+    four
+    six
+    two
+Graph contains a cycle
